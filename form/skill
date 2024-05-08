@@ -1,0 +1,26 @@
+\jsx
+manipulating DOM with useRef
+https://zh-hans.react.dev/reference/react/useRef
+https://hsuan.info/2023/09/03/16-react-useref/
+FormData
+https://developer.mozilla.org/en-US/docs/Web/API/FormData
+FormData.entries()
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/entries
+https://pjchender.dev/webapis/webapis-form-formdata/
+onBlur
+
+\css
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/:invalid
+input:invalid ~ span {
+  display: block;
+}
+
+\html
+pattern
+https://www.w3schools.com/tags/att_input_pattern.asp
+
+\regex
+js only letter regex code
+js 1 letter 1 number 1 special character regex code
+
+https://youtu.be/tIdNeoHniEY?list=PLL5taXRLzd89hR7zTiog7kjYCrHN_n7IE&t=1470
